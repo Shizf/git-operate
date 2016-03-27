@@ -1,2 +1,3 @@
-node_modules/ 
+node_modules/ #对于未加入版本库的待忽略的文件或文件夹,此ignore有效
+*.txt         #已存在版本库中的文件
 
